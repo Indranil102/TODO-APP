@@ -9,13 +9,7 @@ This is my first project built using React.js! It's a simple and functional Todo
 - Delete tasks
 - View all tasks in an organized list
 
-## Demo
 
-[Add a link here if you've deployed your app, e.g., on Vercel or Netlify]
-
-## Screenshots
-
-[Include screenshots of your app here if you have any!]
 
 ## Getting Started
 
